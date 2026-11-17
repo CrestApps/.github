@@ -22,3 +22,13 @@ Everything here is free and open source, built and maintained alongside full-tim
 Sponsorship funds new features, faster fixes, documentation and long-term maintenance. Companies relying on these projects in production are especially encouraged to sponsor.
 
 Other ways to help: ⭐ star the repos you use, report issues, and contribute pull requests.
+
+## 🥉 Sponsors
+
+Thank you to the companies that sponsor CrestApps.
+
+<p>
+  <a href="https://lombiq.com" title="Lombiq Technologies">
+    <img src="https://raw.githubusercontent.com/CrestApps/.github/main/profile/sponsors/lombiq.webp" alt="Lombiq Technologies" height="40" />
+  </a>
+</p>
